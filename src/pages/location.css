@@ -1,0 +1,264 @@
+.location-container {
+  max-width: 1180px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.notary-info-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.notary-info-text {
+  font-family: rs-regular;
+  color: black;
+  font-size: 14px;
+  margin-left: 15px;
+  margin-top: 1px;
+}
+
+.location-notary-alert {
+  width: 75%;
+  height: 50px;
+  padding: 13px 20px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.location-div {
+  padding-top: 95px;
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.location-title-card {
+  height: 50px;
+  padding: 14px 20px 17px 20px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.location-card-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.location-title-text {
+  font-family: rs-medium;
+  font-size: 15px;
+}
+
+.location-branch-card {
+  background-color: white;
+  border-radius: 15px;
+  display: inline-flex;
+}
+
+.location-branch-image {
+  width: 200px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  height: 219px;
+  object-fit: cover;
+}
+
+.location-branch-info {
+  padding-left: 25px;
+  padding-top: 25px;
+  padding-right: 74px;
+}
+
+.location-branch-main-info {
+  padding-left: 25px;
+  padding-top: 25px;
+  padding-right: 64px;
+}
+
+.location-branch-name {
+  font-family: rs-medium;
+  font-size: 17px;
+  margin-bottom: 15px;
+}
+
+.location-branch-location {
+  font-family: rs-regular;
+  font-size: 14px;
+  line-height: 1.64;
+  margin-bottom: 15px;
+}
+
+.location-branch-timetable {
+  font-family: rs-regular;
+  font-style: oblique;
+  font-size: 14px;
+}
+
+.location-branch-main-image {
+  width: 580px;
+  object-fit: cover;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.location-picker-div {
+  height: 45px;
+}
+
+.location-picker-city-div {
+  display: flex;
+  float: left;
+  border-radius: 15px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.location-picker-select-div {
+  display: flex;
+  float: right;
+}
+
+.location-picker-not-selected {
+  width: 190px;
+  height: 45px;
+  padding: 11px 50px 11px 51px;
+  border-radius: 15px;
+  background-color: white;
+}
+
+.location-picker-selected {
+  width: 190px;
+  height: 45px;
+  padding: 11px 50px 11px 51px;
+  border-radius: 15px;
+  background-image: linear-gradient(91deg, #1dbec3 0%, #21d5db 100%);
+}
+
+.location-picker-text-selected {
+  font-family: rs-medium;
+  font-size: 15px;
+  color: white;
+}
+.location-picker-text-not-selected {
+  font-family: rs-medium;
+  font-size: 15px;
+  color: black;
+}
+.custom-select {
+  width: 200px;
+  height: 45px;
+  padding: 12px 18px 12px 20px;
+  border-radius: 15px;
+  background: none;
+  background-color: #ffffff;
+  border: none;
+}
+
+.custom-select.MuiInput-underline:after {
+  border-bottom: none !important;
+}
+
+.custom-select.MuiInput-underline:before {
+  border-bottom: none !important;
+}
+
+.custom-select.MuiInputBase-root {
+  font-family: rs-medium !important;
+  font-size: 13px !important;
+}
+
+@media only screen and (max-width: 1180px) {
+  .location-div {
+    max-width: 900px;
+  }
+  .location-branch-main-image {
+    height: 100%;
+  }
+  .location-branch-image {
+    height: 100%;
+    width: 150px;
+  }
+  .location-notary-alert {
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .location-div {
+    max-width: 500px;
+  }
+
+  .location-branch-main-image {
+    width: 200px;
+  }
+  .location-card-container {
+    grid-template-columns: none;
+  }
+  .location-picker-selected {
+    width: 250px;
+    text-align: center;
+  }
+  .location-picker-not-selected {
+    width: 250px;
+    text-align: center;
+  }
+
+  .location-picker-div {
+    height: 90px;
+  }
+  .custom-select {
+    margin-top: 15px;
+    width: 500px;
+  }
+  .location-notary-alert {
+    width: 100%;
+    height: 65px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .location-picker-selected {
+    width: 175px;
+    text-align: center;
+  }
+  .location-picker-not-selected {
+    width: 175px;
+    text-align: center;
+  }
+  .location-div {
+    max-width: 350px;
+  }
+  .location-container {
+    max-width: 350px;
+  }
+  .location-picker-text-selected{
+    font-size: 13px;
+  }
+  .location-picker-text-not-selected{
+    font-size: 13px;
+  }
+  .location-picker-selected{
+    padding:13px 50px 11px 51px;
+  }
+  .location-picker-not-selected{
+    padding:13px 50px 11px 51px;
+  }
+
+  .custom-select{
+    width: 350px;
+  }
+  .location-branch-main-image{
+    width: 150px;
+    object-position: 35%;
+}
+  .location-notary-alert{
+    height: 110px;
+  }
+  .location-div{
+    padding-top: 30px;
+  }
+}

@@ -1,0 +1,997 @@
+.planding-1-background {
+  background-color: #edefee;
+  height: 970px;
+}
+
+.planding-1-title {
+  font-family: rs-regular;
+  font-size: 48px;
+  color: #00b9c0;
+  width: 605px;
+  line-height: 58px;
+  letter-spacing: -1.25px;
+  margin-left: 375px;
+  padding-top: 302px;
+  z-index: 1;
+}
+
+.terms-sub {
+  margin-left: 32px;
+  margin-bottom: 0px;
+  line-height: 1.56;
+}
+
+.terms-main {
+  line-height: 1.56;
+  margin-bottom: 0px;
+}
+
+.planding-1-div {
+  display: inline-flex;
+}
+
+.planding-1-image {
+  margin-left: -1120px;
+}
+
+.planding-2-background {
+  background-color: #000;
+}
+
+.planding-3-background {
+  background-image: url("../assets/planding/planding-3-1.png");
+  height: 728px;
+  background-size: cover;
+}
+
+.planding-3-div {
+  width: 55%;
+  display: flex;
+  margin: 0 auto;
+  padding-top: 230px;
+  text-align: center;
+}
+
+.planding-3-div.digital {
+  width: 70%;
+}
+
+.planding-3-top {
+  display: inline-flex;
+}
+
+.planding-3-icon {
+  width: 35px;
+  height: 35px;
+  margin-right: 15px;
+  margin-top: 10px;
+}
+
+.planding-1-mobile-picture {
+  display: none;
+}
+
+.planding-3-title {
+  font-family: rs-medium;
+  color: #00b7be;
+  font-size: 40px;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.planding-3-description {
+  font-family: "Rubik";
+  font-size: 18px;
+  color: #2d3643;
+  line-height: 1.56;
+  width: 265px;
+  height: 150px;
+  margin: 0 auto;
+}
+.terms-divider {
+  margin-top: 50px !important;
+  margin-bottom: 20px !important;
+  width: 70px;
+  height: 1px;
+  border-radius: 10px;
+  background-color: #20d0d6;
+  margin: 0 auto;
+}
+
+.planding-3-item {
+  margin-right: 135px;
+}
+
+.planding-4-background {
+  height: 905px;
+  background-image: url("../assets/planding/planding-4-1.png");
+  background-size: cover;
+  margin-left: -350px;
+}
+
+.planding-4-div {
+  margin-left: 725px;
+  padding-top: 290px;
+}
+
+.planding-4-title {
+  font-family: rs-medium;
+  color: #00b7be;
+  line-height: 1.25;
+  letter-spacing: -1.68px;
+  width: 394px;
+  font-size: 48px;
+}
+
+.planding-4-description {
+  margin-top: 46px;
+  color: #fff;
+  font-family: rs-regular;
+  line-height: 1.33;
+  font-size: 24px;
+  width: 540px;
+  letter-spacing: -0.6px;
+}
+
+.planding-5-background {
+  height: 880px;
+  background-image: url("../assets/planding/planding-5-1.png");
+  background-size: cover;
+}
+
+.planding-5-div {
+  padding-top: 275px;
+  display: flex;
+  margin: 0 520px;
+}
+
+.planding-5-icon {
+  margin-top: 90px;
+  width: 70px;
+  height: 70px;
+}
+
+.planding-5-title {
+  font-family: rs-regular;
+  font-size: 15px;
+  color: #000000;
+  margin-top: 24px;
+  margin-bottom: 0;
+  line-height: 1.56;
+}
+
+.planding-5-description {
+  font-family: rs-medium;
+  font-size: 18px;
+  color: #1f3060;
+  margin-top: 5px;
+  font-weight: bold;
+  line-height: 1.56;
+}
+
+.planding-5-item {
+  text-align: center;
+  margin-right: 20px;
+  background-color: #e2eeef;
+  width: 280px;
+  height: 325px;
+  border-radius: 10px;
+}
+
+.planding-6-background {
+  height: 1080px;
+  background-image: url("../assets/planding/planding-6-1.png");
+  background-size: cover;
+}
+
+.planding-6-title {
+  color: #f1f2f6;
+  font-family: rs-medium;
+  font-size: 100px;
+  letter-spacing: -3.5px;
+  margin: 0;
+}
+
+.planding-6-description {
+  font-family: "Rubik";
+  color: #fff;
+  line-height: 1.33;
+  font-size: 24px;
+  margin-top: 26px;
+}
+
+.planding-6-div {
+  text-align: center;
+  padding: 438px 0;
+}
+
+.planding-7-background {
+  background-color: #26343c;
+  height: 690px;
+}
+
+.planding-7-div {
+  text-align: center;
+  padding-top: 170px;
+}
+
+.planding-7-title {
+  font-family: rs-medium;
+  font-size: 54px;
+  color: #00b7be;
+  letter-spacing: -1.89px;
+  margin-bottom: 0;
+}
+
+.planding-7-qr {
+  width: 159px;
+  height: 159px;
+}
+
+.planding-7-description {
+  margin-top: 30px;
+  font-family: "Rubik";
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.56;
+  margin-bottom: 0;
+}
+
+.planding-7-download {
+  width: 200px;
+  height: 58px;
+  margin-top: 50px;
+}
+
+.footer-1-background {
+  height: 655px;
+  background-color: #fff;
+  padding-top: 114px;
+}
+
+.footer-1-main-title {
+  font-family: rs-medium;
+  color: #00b7be;
+  font-size: 48px;
+  letter-spacing: -1.68px;
+  margin-bottom: 5px;
+  line-height: 1.13;
+}
+
+.footer-1-line {
+  width: 300px;
+  height: 3.4px;
+  margin: 0;
+}
+
+.footer-1-item {
+  margin-top: 50px;
+  display: flex;
+}
+
+.footer-1-icon {
+  width: 28px;
+  height: 28px;
+  margin-right: 42px;
+}
+
+.footer-1-description {
+  font-family: "Rubik";
+  font-size: 24px;
+  color: #2d3643;
+  line-height: 1.33;
+}
+
+.footer-1-download {
+  width: 195px;
+  height: 58px;
+}
+
+.footer-1-content {
+  margin-left: 648px;
+}
+
+.footer-2-background {
+  height: 105px;
+  background-color: #e4f0f1;
+  padding: 38px 0;
+  text-align: center;
+}
+
+.footer-2-icon {
+  width: 31px;
+  height: 31px;
+  margin-right: 51px;
+}
+
+.footer-3-background {
+  height: 160px;
+  background-color: #67747c;
+  text-align: center;
+}
+
+.footer-3-title {
+  font-family: "Rubik";
+  font-size: 22px;
+  color: #fff;
+  line-height: 1.64;
+  padding-top: 41px;
+}
+
+.footer-3-copyright {
+  font-family: "Rubik";
+  font-size: 16px;
+  color: #fff;
+  line-height: 2;
+}
+
+.compliance-div {
+  background-color: #f9fdfd;
+  padding-top: 95px;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+.compliance-title {
+  text-align: center;
+  font-family: rs-medium;
+  color: #00b7be;
+  font-size: 40px;
+  letter-spacing: -1.4px;
+  margin-bottom: 70px;
+}
+
+.terms-title {
+  font-family: "Rubik";
+  font-size: 18px;
+  color: #636c77;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.terms-hint {
+  font-family: "Rubik";
+  font-size: 15px;
+  line-height: 1.87;
+  color: #636c77;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.compliance-content {
+  font-family: "Rubik";
+  font-size: 18px;
+  color: #2d3643;
+  line-height: 1.56;
+  padding-bottom: 50px;
+}
+
+.compliance-container {
+  max-width: 1920px;
+  margin: 0 auto;
+  background-color: #f9fdfd;
+  overflow: hidden;
+}
+
+#compliance-t:hover {
+  text-decoration: none;
+}
+
+.footer-logo {
+  width: 146px;
+  height: 50px;
+  margin-right: 150px;
+}
+
+@media (max-width: 1600px) {
+  .loan-button-text {
+    font-size: 13px;
+  }
+
+  .planding-1-image {
+    margin-left: -850px;
+    height: 100vh;
+  }
+  .planding-1-background {
+    height: 100vh;
+  }
+  .planding-1-title {
+    font-size: 40px;
+    margin: auto;
+    margin-left: 190px;
+    width: 500px;
+    line-height: 48px;
+    padding-top: 0;
+  }
+  .nav-link {
+    font-size: 13px;
+  }
+
+  .planding-3-div {
+    width: 70%;
+    padding-top: 250px;
+  }
+
+  .planding-3-div.digital {
+    width: 85%;
+  }
+  .planding-3-icon {
+    width: 30px;
+    height: 30px;
+    margin-top: 8px;
+  }
+  .planding-3-title {
+    font-size: 35px;
+  }
+  .planding-3-description {
+    font-size: 16px;
+  }
+
+  .planding-4-background {
+    height: 100vh;
+    margin-left: -300px;
+  }
+  .planding-4-title {
+    font-size: 40px;
+  }
+  .planding-4-description {
+    font-size: 20px;
+    width: 450px;
+  }
+  .planding-4-div {
+    margin-left: 500px;
+    padding-top: 200px;
+  }
+  .planding-5-div {
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 200px;
+  }
+  .planding-5-background {
+    height: 100vh;
+  }
+  .planding-5-title {
+    font-size: 14px;
+  }
+  .planding-5-description {
+    font-size: 16px;
+  }
+  .footer-1-content {
+    margin-left: 440px;
+  }
+  .planding-6-background {
+    height: 100vh;
+  }
+  .planding-6-div {
+    padding: 250px 0;
+  }
+  .planding-6-title {
+    font-size: 80px;
+  }
+  .planding-6-description {
+    font-size: 20px;
+  }
+  .planding-7-description {
+    font-size: 16px;
+  }
+  .planding-7-download {
+    width: 180px;
+    height: 52px;
+  }
+  .footer-button-download {
+    width: 180px;
+    height: 52px;
+  }
+}
+
+@media only screen and (max-width: 1368px) {
+  .planding-1-title {
+    font-size: 35px;
+    width: 400px;
+    line-height: 40px;
+    margin-left: 100px;
+  }
+  .planding-1-image {
+    margin-left: -800px;
+    height: 768px;
+  }
+  .planding-1-background {
+    height: 768px;
+  }
+  .planding-3-div {
+    width: 75%;
+    padding-top: 280px;
+  }
+  .planding-3-item {
+    margin-right: 100px;
+  }
+  .planding-4-div {
+    padding-top: 0;
+  }
+  .planding-4-outer {
+    display: flex;
+    align-items: center;
+    height: 768px;
+  }
+  .planding-4-background {
+    height: 768px;
+    margin-left: -300px;
+  }
+  .planding-4-description {
+    font-size: 18px;
+    width: 400px;
+  }
+
+  .planding-4-title {
+    font-size: 35px;
+    width: 300px;
+  }
+  .planding-5-div {
+    padding-top: 0;
+  }
+  .planding-5-background {
+    height: 768px;
+  }
+  .planding-5-outer {
+    display: flex;
+    align-items: center;
+    height: 768px;
+  }
+  .planding-6-background {
+    height: 768px;
+  }
+  .planding-6-outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 768px;
+  }
+  .planding-6-div {
+    padding: 0;
+  }
+  .planding-6-title {
+    font-size: 60px;
+  }
+  .planding-6-description {
+    font-size: 18px;
+  }
+  .footer-icon-text {
+    font-size: 14px;
+  }
+  .compliance-text {
+    font-size: 14px;
+  }
+  .compliance-button {
+    padding: 18px 0;
+  }
+  .copyright {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 1180px) {
+  .footer-logo {
+    visibility: hidden;
+    width: 0;
+    margin: 0;
+  }
+  .planding-3-div {
+    width: 85%;
+    padding-top: 250px;
+  }
+  .planding-4-background {
+    height: 768px;
+    margin-left: -600px;
+  }
+  .planding-4-div {
+    padding-top: 0;
+    margin-left: 700px;
+  }
+  .planding-5-div {
+    width: 70%;
+  }
+  .main-footer {
+    max-width: 950px;
+  }
+  .footer-information {
+    margin-left: 10%;
+  }
+  .compliance-title {
+    font-size: 30px;
+  }
+  .compliance-content {
+    font-size: 14px;
+  }
+  .compliance-div {
+    max-width: 1100px;
+  }
+
+  .planding-3-icon {
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 1025px) {
+  .navbar {
+    max-width: 900px;
+  }
+  .planding-1-background {
+    height: 768px;
+  }
+  .planding-1-title {
+    font-size: 30px;
+    line-height: 35px;
+    margin-left: 100px;
+    width: 350px;
+  }
+  .planding-1-image {
+    margin-left: -850px;
+    height: 768px;
+  }
+  .landing-container {
+    max-width: 1024px;
+  }
+  .planding-3-item {
+    margin-right: 40px;
+  }
+  .planding-3-div {
+    width: 90%;
+  }
+  .planding-3-icon {
+    margin-top: 6px;
+  }
+  .planding-3-title {
+    font-size: 30px;
+  }
+  .planding-3-description {
+    font-size: 14px;
+  }
+  .planding-4-background {
+    height: 768px;
+    margin-left: -600px;
+  }
+  .planding-4-div {
+    margin-left: 700px;
+  }
+  .planding-4-description {
+    font-size: 16px;
+    width: 350px;
+  }
+  .planding-4-title {
+    font-size: 30px;
+  }
+  .planding-5-background {
+    height: 768px;
+  }
+  .planding-5-div {
+    width: 80%;
+  }
+  .planding-6-background {
+    height: 768px;
+  }
+  .planding-6-div {
+    padding: 30% 0;
+  }
+  .main-footer {
+    max-width: 900px;
+  }
+  .footer-logo {
+    visibility: hidden;
+    width: 0;
+    margin: 0;
+  }
+  .footer-information {
+    margin-left: 10%;
+  }
+  .compliance-div {
+    max-width: 920px;
+  }
+}
+
+@media (max-width: 992.1px) {
+  .main-footer {
+    max-width: 750px;
+  }
+  .footer-information {
+    margin-left: 20px;
+  }
+  .footer-icon-text {
+    font-size: 12px;
+  }
+  .copyright {
+    font-size: 12px;
+  }
+  .compliance-text {
+    font-size: 12px;
+  }
+  .planding-4-background {
+    margin-left: -650px;
+  }
+}
+
+.planding-1-mobile-background {
+  display: none;
+}
+.planding-3-mobile-background {
+  display: none;
+}
+.planding-4-mobile-background {
+  display: none;
+}
+.planding-5-mobile-background {
+  display: none;
+}
+.planding-6-mobile-title {
+  display: none;
+}
+.planding-6-mobile-description {
+  display: none;
+}
+.planding-4-mobile-small-title {
+  display: none;
+}
+.planding-7-mobile-description {
+  display: none;
+}
+
+@media only screen and (max-width: 769px) {
+  .compliance-div {
+    max-width: 700px;
+    padding-top: 35px;
+  }
+  .compliance-title {
+    margin-bottom: 30px;
+  }
+  .navbar {
+    max-width: 700px;
+  }
+  .navbar-toggler {
+    margin-left: 70vw;
+  }
+  .planding-1-background {
+    display: none;
+  }
+  .planding-1-mobile-background {
+    display: block;
+  }
+  .planding-1-mobile-picture {
+    width: 100%;
+    display: block;
+  }
+  .planding-1-mobile-div {
+    background-color: #ebefef;
+    padding: 80px 80px;
+  }
+  .planding-1-mobile-text {
+    font-family: rs-regular;
+    color: #00b9c0;
+    font-size: 40px;
+    line-height: 1.4;
+    letter-spacing: -0.63px;
+  }
+  .planding-3-background {
+    display: none;
+  }
+  .planding-3-mobile-background {
+    display: inline-block;
+    height: 1024px;
+    width: 100%;
+    background-image: url("../assets/planding/planding-3-mobile.png");
+    text-align: center;
+  }
+  .planding-3-mobile-item {
+    margin-top: 55px;
+  }
+  .planding-3-title {
+    font-size: 40px;
+    margin-bottom: 35px;
+  }
+  .planding-3-description {
+    font-size: 19px;
+    margin: 0 auto;
+  }
+  .planding-3-icon {
+    width: 34px;
+    height: 34px;
+    margin-top: 9px;
+  }
+  .planding-4-background {
+    display: none;
+  }
+  .planding-4-mobile-background {
+    background-color: #ebefef;
+    display: block;
+    padding: 100px 100px;
+  }
+  .planding-4-div {
+    background-color: #ebefef;
+  }
+  .planding-4-mobile-title {
+    font-family: rs-medium;
+    font-size: 40px;
+    line-height: 1.29;
+    letter-spacing: -0.88px;
+    color: #00b9c0;
+    text-align: center;
+  }
+  .planding-4-mobile-description {
+    font-family: "Rubik";
+    line-height: 1.58;
+    color: #2d3643;
+    text-align: center;
+    margin-top: 15px;
+    padding: 0 100px;
+  }
+  .planding-5-background {
+    display: none;
+  }
+  .planding-5-mobile-background {
+    display: block;
+    background-image: url("../assets/planding/planding-5-1.png");
+    background-size: cover;
+    padding: 55px 20px;
+  }
+  .planding-5-mobile-item {
+    width: 285px;
+    height: 325px;
+    margin: 35px auto;
+    padding: 88px 0px;
+    border-radius: 10px;
+    background-color: #e2eeef;
+    text-align: center;
+  }
+  .planding-5-mobile-icon {
+    width: 70px;
+    height: 70px;
+  }
+  .planding-5-mobile-title {
+    margin-top: 25px;
+    line-height: 1.58;
+    text-align: center;
+    color: #1f3060;
+    font-family: rs-regular;
+    font-size: 15px;
+  }
+  .planding-5-mobile-description {
+    font-family: rs-medium;
+    line-height: 1.58;
+    text-align: center;
+    color: #1f3060;
+    font-size: 19px;
+  }
+  .planding-6-mobile-title {
+    display: block;
+    font-size: 40px;
+    color: #f1f2f6;
+    font-family: rs-medium;
+    letter-spacing: -0.88px;
+    margin: 0;
+  }
+  .planding-6-mobile-description {
+    display: block;
+    line-height: 1.58;
+    font-family: "Rubik";
+    font-size: 19px;
+    margin-top: 26px;
+    color: #fff;
+  }
+  .planding-6-title {
+    display: none;
+  }
+  .planding-6-description {
+    display: none;
+  }
+  .planding-7-qr {
+    margin-bottom: 45px;
+  }
+  .planding-7-description {
+    width: 350px;
+    font-family: "Rubik";
+    font-size: 19px;
+    line-height: 1.58;
+    margin: 0 auto;
+  }
+  .planding-7-background {
+    background-color: #26343c;
+    height: 518px;
+    padding: 75px 23px;
+  }
+  .planding-7-div {
+    padding: 0;
+  }
+  .compliance-content {
+    padding: 0 20px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .planding-1-mobile-text {
+    font-size: 30px;
+  }
+  .planding-1-mobile-div {
+    padding: 30px 50px;
+  }
+  .planding-4-mobile-title {
+    display: none;
+  }
+  .planding-4-mobile-small-title {
+    display: block;
+    font-family: rs-medium;
+    line-height: 1.29;
+    letter-spacing: -0.88px;
+    color: #00b9c0;
+    font-size: 35px;
+    text-align: left;
+  }
+  .planding-4-mobile-description {
+    padding: 0;
+    text-align: left;
+    width: 282px;
+  }
+  .planding-4-mobile-background {
+    padding: 55px 20px;
+  }
+  .planding-6-mobile-title {
+    font-size: 35px;
+  }
+  .planding-6-mobile-description {
+    width: 284px;
+  }
+  .planding-6-outer {
+    height: 450px;
+  }
+  .planding-6-background {
+    height: 450px;
+  }
+  .planding-7-mobile-description {
+    display: block;
+    font-family: "Rubik";
+    font-size: 19px;
+    line-height: 1.58;
+    color: #ffffff;
+  }
+  .planding-7-description {
+    display: none;
+  }
+  .compliance-div {
+    max-width: 500px;
+    padding-top: 35px;
+  }
+  .terms-title {
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 415px) {
+  .planding-1-mobile-text {
+    font-size: 25px;
+  }
+  .planding-1-mobile-div {
+    padding: 55px 20px 35px 20px;
+  }
+  .planding-4-mobile-description {
+    width: 284px;
+    font-size: 19px;
+  }
+  .planding-5-mobile-description {
+    line-height: 1;
+    font-weight: bold;
+  }
+  .planding-5-mobile-title {
+    margin-top: 25px;
+    line-height: 1;
+  }
+  .planding-7-download {
+    width: 157px;
+    height: 46px;
+    margin-right: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 371px) {
+  .planding-7-download {
+    width: 120px;
+    height: 35px;
+    margin-right: 0 !important;
+  }
+}

@@ -1,0 +1,102 @@
+.sb-1-background {
+  background-size: cover;
+  height: 750px;
+  background-image: url("../assets/simplebuy/sb-landing-1.png");
+}
+
+.clanding-3-div.sb {
+  padding-bottom: 89px;
+}
+
+.sb-landing-div {
+  background-image: url("../assets/simplebuy/sb-landing-2.png");
+  background-size: cover;
+  height: 550px;
+  display: flex;
+  padding: 100px 420px;
+}
+
+.sb-landing-text-div {
+  width: 270px;
+  margin-right: 120px;
+}
+
+.sb-landing-div-title {
+  font-family: rs-medium;
+  font-size: 40px;
+  line-height: 2.69;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.sb-landing-div-description {
+  font-family: "Rubik";
+  font-size: 18px;
+  line-height: 1.56;
+  color: #fff;
+  text-align: center;
+}
+
+@media (max-width: 1600px) {
+  .sb-landing-div {
+    padding: 100px 320px;
+  }
+
+  .sb-landing-div-title {
+    font-size: 30px;
+  }
+  .sb-1-background {
+    width: 100vw;
+    background-repeat: no-repeat;
+    height: 600px;
+  }
+}
+
+@media only screen and (max-width: 1368px) {
+  .sb-landing-div {
+    padding: 100px 220px;
+    height: 500px;
+  }
+  .sb-1-background {
+    background-size: cover;
+    height: 550px;
+    background-position: center;
+  }
+}
+
+@media (max-width: 1025px) {
+  .sb-landing-div-description {
+    font-size: 14px;
+  }
+  .sb-landing-text-div {
+    width: 400px;
+    margin-right: 120px;
+  }
+  .sb-landing-div {
+    padding: 100px 100px;
+    height: 500px;
+  }
+}
+
+@media only screen and (max-width: 769px) {
+  .sb-1-background{
+    display: none;
+  }
+  .clanding-1-mobile-div.sb {
+    background-image: url("../assets/simplebuy/sb-landing-1-mobile.png");
+  }
+  .sb-landing-div {
+    display: none;
+  }
+  .planding-3-mobile-background.sb {
+    background-image: url("../assets/simplebuy/sb-landing-2-mobile.png");
+  }
+  .planding-3-title.sb {
+    color: white;
+  }
+  .planding-3-description.sb {
+    color: white;
+  }
+}

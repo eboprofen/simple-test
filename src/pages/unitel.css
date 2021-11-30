@@ -1,0 +1,448 @@
+.unitel-ad {
+  text-align: center;
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.unitel-phone {
+  margin-left: 25px;
+  margin-right: 10px;
+  color: "#00b7bd";
+}
+.unitel-ad-image {
+  width: 100%;
+}
+
+.unitel-ad-1-image {
+  width: 100%;
+  padding: 0 100px;
+}
+
+.unitel-ad-1 {
+  text-align: center;
+  background-color: #e4f0f1;
+  padding: 0px 250px;
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+.unitel-ad-1-text {
+  font-family: rs-bold;
+  padding-top: 10%;
+  padding-bottom: 0;
+  line-height: 1.2;
+  letter-spacing: -2.2px;
+  color: #212e60;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.unitel-ad-2 {
+  background-color: #e4f0f1;
+  padding: 80px 175px;
+}
+
+.unitel-ad-2-card {
+  width: 100%;
+  background-color: white;
+  padding: 50px;
+  border-radius: 41.8px;
+  background-color: #fff;
+  text-align: left;
+}
+
+.unitel-ad-2-title-div {
+  margin-bottom: 30px;
+}
+
+.unitel-1-hint {
+  margin-left: 35px;
+  display: flex;
+}
+
+.unitel-ad-5-text.light {
+  margin-left: 15px;
+  font-family: rs-light;
+  letter-spacing: 0px;
+}
+
+.unitel-circle {
+  width: 14px;
+  height: 14px;
+  margin-top: 5px;
+}
+
+.unitel-ad-2-title {
+  width: 20px;
+  height: 23px;
+  margin-top: -10px;
+}
+
+.unitel-ad-5-step {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.unitel-ad-2-title-text {
+  font-family: rs-medium;
+  font-size: 28px;
+  font-weight: 500;
+  letter-spacing: -1px;
+  text-align: left;
+  color: #212e60;
+  margin-left: 20px;
+}
+
+.unitel-ad-3 {
+  background-color: #d9e5eb;
+  padding: 80px 175px;
+}
+
+.unitel-ad-3.light {
+  background-color: #e4f0f1;
+}
+
+.unitel-ad-bordered-card {
+  margin-top: 30px;
+  width: 100%;
+  border-radius: 50px;
+  border: 2px solid #e4f0f1;
+  padding: 30px 28px;
+}
+
+.unitel-download {
+  width: 100%;
+  margin-bottom: 30px;
+  padding: 0px 170px;
+  margin-left: 10px;
+}
+
+.unitel-phone-div {
+  text-align: center;
+}
+
+.unitel-last-text {
+  font-family: rs-medium;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 14px;
+  padding: 0 100px;
+}
+
+.unitel-ad-5-text.unitel-phone-name {
+  font-family: rs-medium;
+  color: #000;
+  margin-bottom: 5px;
+  margin-top: 15px;
+}
+
+.unitel-ad-5-text.unitel-phone-price {
+  font-family: rs-medium;
+  color: #212e60;
+  margin-bottom: 15px;
+}
+
+.unitel-phone-image {
+  width: 100%;
+  height: 75%;
+}
+
+.unitel-phone-divider {
+  margin-bottom: 15px;
+  width: 100%;
+  height: 3px;
+  border-radius: 5px;
+  background-color: #e4f0f1;
+}
+
+.unitel-ad-3-text {
+  font-family: rs-medium;
+  font-size: 40px;
+  line-height: 1.2;
+  letter-spacing: -2.03px;
+  color: #2d3643;
+}
+
+.unitel-ad-3-download-button {
+  height: 50px;
+  width: 350px;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 12px 30px 10px;
+  border-radius: 15px;
+  background-image: linear-gradient(91deg, #1dbec3 0%, #21d5db 100%);
+}
+
+.unitel-ad-3-dtext {
+  text-decoration: none;
+  color: white;
+  font-family: rs-medium;
+}
+
+.unitel-ad-3-other-buttons {
+  width: 100%;
+  margin-top: 70px;
+  padding: 0px 350px;
+}
+
+.unitel-ad-4 {
+  background-color: white;
+  padding: 80px 0px;
+}
+
+.unitel-ad-4-body {
+  margin-top: 30px;
+  text-align: center;
+}
+.unitel-ad-4-steps {
+  display: inline-grid;
+}
+
+.unitel-ad-4-step {
+  font-family: rs-regular;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: -0.6px;
+  color: #00bbc2;
+}
+
+.unitel-ad-4-step-text {
+  margin-bottom: 50px;
+  font-family: rs-regular;
+  font-size: 18px;
+  letter-spacing: -0.6px;
+  color: #000;
+}
+
+.unitel-ad-4-steps-text {
+  display: inline-grid;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.unitel-ad-4-circle-icon {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 30px;
+}
+
+.unitel-ad-5 {
+  background-color: #e4f0f1;
+  padding: 80px 0px;
+}
+
+.unitel-ad-5-body {
+  margin-top: 30px;
+  margin-left: 175px;
+  text-align: left;
+}
+
+.unitel-ad-5-text {
+  margin-left: 20px;
+  font-family: rs-regular;
+  font-size: 18px;
+  color: #000;
+  letter-spacing: -0.3px;
+}
+
+.unitel-check {
+  width: 20px;
+  height: 20px;
+  margin-top: 3px;
+}
+
+.unitel-ad-6 {
+  background-color: #d9e5eb;
+  padding: 80px 0px;
+}
+
+.unitel-ad-6-body {
+  margin-top: 20px;
+  text-align: left;
+  display: inline-flex;
+}
+
+.unitel-6-step-text {
+  font-family: rs-regular;
+  font-size: 18px;
+  letter-spacing: -0.6px;
+  color: #000;
+}
+
+.unitel-6-step-text {
+  font-family: rs-regular;
+  font-size: 18px;
+  letter-spacing: -0.6px;
+  color: #000;
+}
+
+@media only screen and (max-width: 1025px) {
+  .unitel-ad-1-text {
+    font-size: 40px;
+  }
+  .unitel-ad-1-image {
+    padding: 0 50px;
+  }
+  .unitel-last-text {
+    padding: 0px;
+  }
+  .unitel-download {
+    padding: 0px 70px;
+  }
+}
+
+@media only screen and (max-width: 769px) {
+  .unitel-ad-1 {
+    padding: 50px 100px;
+  }
+  .unitel-ad-2 {
+    padding: 50px;
+  }
+  .unitel-ad-3 {
+    padding: 50px;
+  }
+  .unitel-ad-3-text {
+    font-size: 32px;
+  }
+  .unitel-ad-3-other-buttons {
+    padding: 0px 150px;
+  }
+  .unitel-ad-4-circle-icon {
+    width: 70px;
+    height: 70px;
+  }
+  .unitel-ad-4-body {
+    margin-left: 0px;
+  }
+  .unitel-ad-4 {
+    padding: 50px;
+  }
+  .unitel-ad-5 {
+    padding: 50px;
+  }
+  .unitel-ad-6 {
+    padding: 50px;
+  }
+  .unitel-ad-5-body {
+    margin-left: 0px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .unitel-ad-1 {
+    padding: 25px;
+  }
+  .unitel-ad-2 {
+    padding: 25px;
+  }
+  .unitel-ad-3 {
+    padding: 25px;
+  }
+  .unitel-ad-1-text {
+    font-size: 24px;
+    letter-spacing: -1.3px;
+  }
+  .unitel-ad-2-title-text {
+    font-size: 20px;
+  }
+  .unitel-ad-2-title-div {
+    margin-bottom: 20px;
+  }
+  .unitel-ad-5-text {
+    margin-left: 20px;
+    font-family: rs-regular;
+    font-size: 15px;
+    letter-spacing: -0.6px;
+    color: #000;
+    line-height: 1.89;
+  }
+  .unitel-ad-2-title {
+    width: 9px;
+    height: 10px;
+    margin-top: -5px;
+  }
+  .unitel-check {
+    width: 16px;
+    height: 16px;
+    margin-top: 5px;
+  }
+
+  .unitel-circle {
+    width: 12px;
+    height: 12px;
+    margin-top: 7px;
+  }
+
+  .unitel-download {
+    padding: 0px 10px;
+  }
+
+  .unitel-last-text {
+    font-size: 11px;
+    margin-top: 20px;
+  }
+
+  .unitel-ad-5-text {
+    margin-left: 15px;
+  }
+  .unitel-phone {
+    margin-left: 0px;
+  }
+  .unitel-ad-2-card {
+    padding: 30px;
+  }
+  .unitel-phone-image {
+    width: 100%;
+    height: 50%;
+  }
+  .unitel-ad-bordered-card {
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 15px;
+    border: 1px solid #e4f0f1;
+    padding: 15px;
+}
+  .unitel-ad-4-circle-icon {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 20px;
+  }
+  .unitel-ad-4-step {
+    font-size: 15px;
+  }
+  .unitel-ad-4-step-text {
+    font-size: 15px;
+  }
+
+  .unitel-6-step-text {
+    font-size: 15px;
+  }
+
+  .unitel-ad-2-title {
+    width: 17px;
+    height: 20px;
+  }
+
+  .unitel-ad-3-text {
+    font-size: 24px;
+    letter-spacing: -1.5px;
+  }
+  .unitel-ad-4 {
+    padding: 25px;
+  }
+  .unitel-ad-5 {
+    padding: 25px;
+  }
+  .unitel-ad-6 {
+    padding: 25px;
+  }
+  .unitel-ad-5-step {
+    margin-bottom: 10px;
+  }
+  .unitel-1-hint{
+    margin-top: 5px !important;
+  }
+  .unitel-ad-5-text.light {
+    margin-bottom: 0px;
+}
+}

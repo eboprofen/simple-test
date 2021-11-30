@@ -1,0 +1,151 @@
+.cl-1-background {
+  background-size: cover;
+  height: 750px;
+  background-image: url("../assets/carloan/cl-landing-1.png");
+}
+
+.carloan-table-header-lite {
+  width: 435px;
+  height: 89px;
+  padding-top: 20px;
+  padding-left: 25px;
+  background-color: #f5e703;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.carloan-table-header-pro {
+  width: 435px;
+  height: 89px;
+  padding-top: 20px;
+  padding-left: 25px;
+  background-color: #082136;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.landing-table-item-white.big {
+  width: 435px;
+  height: 107px;
+  background-color: #f7f8f9;
+  padding-top: 42px;
+  padding-left: 18px;
+}
+
+.landing-table-item-grey.big {
+  width: 435px;
+  height: 107px;
+  background-color: #f2f3f4;
+  padding-top: 42px;
+  padding-left: 18px;
+}
+
+.clanding-5-card.cl {
+  padding: 44px 25px 0px;
+}
+
+.clanding-5-title.cl {
+  width: 200px;
+}
+
+.clanding-6-step-description.cl {
+  margin-bottom: 61px;
+  width: 370px;
+}
+
+.clanding-5-div.cl {
+  margin-bottom: 82px;
+}
+
+.clanding-6-container.cl {
+  height: 650px;
+}
+
+@media (max-width: 1600px) {
+  .cl-1-background {
+    width: 100vw;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: contain;
+  }
+  .clanding-6-step-description.cl {
+    margin-bottom: 45px;
+  }
+  .clanding-6-container.cl {
+    height: 500px;
+  }
+  .clanding-6-background-image.cl {
+    width: 570px;
+  }
+}
+@media (max-width: 1368px) {
+  .clanding-6-step-description.cl {
+    width: 300px;
+  }
+}
+
+@media (max-width: 1180px) {
+  .clanding-6-background-image.cl {
+    display: none;
+  }
+}
+
+@media (max-width: 1025px) {
+  .cl-1-background {
+    background-size: cover;
+    height: 550px;
+    background-position: center;
+  }
+  .carloan-table-header-lite {
+    width: 300px;
+    height: 80px;
+  }
+  .carloan-table-header-pro {
+    width: 300px;
+    height: 80px;
+  }
+  .landing-table-item-white.big {
+    width: 300px;
+    height: 80px;
+    padding-top: 36px;
+  }
+
+  .landing-table-item-grey.big {
+    width: 300px;
+    height: 80px;
+    padding-top: 36px;
+  }
+
+  .clanding-6-step-description.cl {
+    width: 250px;
+  }
+}
+
+@media only screen and (max-width: 769px) {
+  .cl-1-background {
+    display: none;
+  }
+  .clanding-1-mobile-div.cl {
+    background-image: url("../assets/carloan/cl-landing-1-mobile.png");
+  }
+  .landing-table-item-white.big {
+    width: 100%;
+    padding-top: 15px;
+  }
+  .landing-table-item-grey.big {
+    width: 100%;
+    padding-top: 15px;
+  }
+  .planding-1-mobile-picture.cl {
+    padding-top: 30px;
+  }
+  .clanding-6-divider.cl {
+    height: 95px;
+  }
+}
+
+@media only screen and (max-width: 769px) {
+  .planding-3-top.sb{
+    padding-top: 35px;
+  }
+}

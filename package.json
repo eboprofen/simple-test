@@ -1,0 +1,55 @@
+{
+  "name": "simple",
+  "version": "1.0.1",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.1.2",
+    "@testing-library/user-event": "^12.2.2",
+    "aos": "^3.0.0-beta.6",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "immer": "^8.0.0",
+    "node-sass": "^4.0.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-markdown": "^6.0.3",
+    "react-number-format": "^4.4.1",
+    "react-player": "^2.7.2",
+    "react-router-dom": "^5.2.0",
+    "react-router-hash-link": "^2.3.1",
+    "react-scripts": "4.0.0",
+    "react-snap": "^1.23.0",
+    "swiper": "^6.4.14",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "cleanBuild": "rimraf ./build/*",
+    "start": "react-scripts start",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
